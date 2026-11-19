@@ -2,13 +2,13 @@
 
 I build websites with Vue, motion and WebGL, from design to deploy. I'm a co-owner of Caowl Studios, a web studio in Stockholm.
 
-The source code for these projects lives in private repos, so this page shows screenshots, live links and notes on what I built and why.
+Most of the source code lives in private repos, so this page shows screenshots, live links and notes on what I built and why. The code for NØR is public.
 
 | Project | What it is | My part | Link |
 | --- | --- | --- | --- |
 | [Balansio Redovisning](#balansio-redovisning) | Website for an accounting firm | Everything | [balansio.se](https://balansio.se) |
 | [Props Möbler](#props-möbler) | Shopify store redesign for a furniture maker | Everything | [propshome.se](https://propshome.se) |
-| [NØR](#nør) | Concept site for an architecture studio | First version, 3D carousel, mobile menu | Not public |
+| [NØR](#nør) | Concept site for an architecture studio | First version, 3D carousel, mobile menu | [Live site](https://adamk1979.github.io/nor-concept/) |
 | [Balansio Connect](#balansio-connect) | Fortnox integration that registers supplier invoices | Everything | Internal tool |
 | [Caowl Studios](#caowl-studios) | Our studio website | Shared with the team | [caowlstudios.com](https://www.caowlstudios.com) |
 
@@ -79,6 +79,8 @@ I also chose not to connect Shopify's GitHub integration yet. It syncs both ways
 ---
 
 ## NØR
+
+**Live:** [adamk1979.github.io/nor-concept](https://adamk1979.github.io/nor-concept/) · **Code:** [nor-concept](https://github.com/Adamk1979/nor-concept)
 
 <p>
   <img src="images/nor-desktop.jpg" alt="NØR concept site on desktop" width="68%">
