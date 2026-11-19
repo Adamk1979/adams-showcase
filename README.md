@@ -8,7 +8,7 @@ Most of the source code lives in private repos, so this page shows screenshots, 
 | --- | --- | --- | --- |
 | [Balansio Redovisning](#balansio-redovisning) | Website for an accounting firm | Everything | [balansio.se](https://balansio.se) |
 | [Props Möbler](#props-möbler) | Shopify store redesign for a furniture maker | Everything | [propshome.se](https://propshome.se) |
-| [NØR](#nør) | Concept site for an architecture studio | First version, 3D carousel, mobile menu | [Live site](https://adamk1979.github.io/nor-concept/) |
+| [NØR](#nør) | Concept site for an architecture studio | Everything | [Live site](https://adamk1979.github.io/nor-concept/) |
 | [Balansio Connect](#balansio-connect) | Fortnox integration that registers supplier invoices | Everything | Internal tool |
 | [Caowl Studios](#caowl-studios) | Our studio website | Shared with the team | [caowlstudios.com](https://www.caowlstudios.com) |
 
@@ -88,7 +88,7 @@ I also chose not to connect Shopify's GitHub integration yet. It syncs both ways
   <img src="images/nor-mobile.jpg" alt="NØR concept site on mobile" width="26%">
 </p>
 
-A one-page concept site for a fictional architecture studio, made for the Caowl Studios portfolio. I built the first version of the whole page, including the 3D carousel, and later the mobile menu. A teammate then swapped in Locomotive Scroll and reworked the services list and footer.
+A one-page concept site for a fictional architecture studio, made for the Caowl Studios portfolio. I designed and built the whole page myself.
 
 ### What I built
 
